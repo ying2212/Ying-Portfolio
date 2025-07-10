@@ -15,21 +15,21 @@ I'm a self-driven and passionate student with a strong dedication to learning an
 
 ## 🛠️ Technical Skills & Certifications
 
-### Programming Languages
+### Programming Languages  
 - C++, C#, Python  
 - HTML, CSS, JavaScript  
 - MIPS Assembly Language  
 
-### Frameworks & Databases
+### Frameworks & Databases  
 - PostgreSQL, NoSQL (MongoDB, Neo4j)  
 - .NET MAUI, MapReduce  
 - Python Libraries: Pandas, NumPy  
 
-### Certifications
+### Certifications  
 - Google Foundations of Data Science  
 - CodePath Intro to Web Development  
 - FreeCodeCamp: Responsive Web Design  
 
-## Awards
+## Awards  
 
 - **1st Place Winner** – *Girls Who Code × WiCS Hackathon*
